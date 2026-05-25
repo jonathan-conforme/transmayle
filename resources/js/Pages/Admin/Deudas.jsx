@@ -120,7 +120,7 @@ export default function Deudas({ unidadesConDeuda = [], mototaxis = [] }) {
     const openCreateModal = () => {
         clearErrors();
         reset();
-        searchTerm('');
+        setSearchTerm('');
         setIsModalOpen(true);
     };
 

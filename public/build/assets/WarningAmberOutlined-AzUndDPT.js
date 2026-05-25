@@ -1,0 +1,1 @@
+import{j as t}from"./app-B0RkIPQz.js";import{g as o}from"./createSvgIcon-DwdIF_7c.js";const n=o(t.jsx("path",{d:"M8 16h8v2H8zm0-4h8v2H8zm6-10H6c-1.1 0-2 .9-2 2v16c0 1.1.89 2 1.99 2H18c1.1 0 2-.9 2-2V8zm4 18H6V4h7v5h5z"})),s=o(t.jsx("path",{d:"M12 5.99 19.53 19H4.47zM12 2 1 21h22zm1 14h-2v2h2zm0-6h-2v4h2z"}));export{n as D,s as W};
